@@ -1,4 +1,4 @@
-html h1{
+html {
     font-size: 20px;
 }
 
@@ -9,7 +9,8 @@ body {
 
 h1 {
     font-family: "Josefin Sans", sans-serif;
-    letter-spacing: 1.2em;
+    font-size: 40px;
+    letter-spacing: 1.2rem;
     border-bottom: 3px solid rgb(115, 115, 114);
 text-shadow: 5px 2px 3px gray;
 }
