@@ -1,4 +1,4 @@
-html {
+html h1{
     font-size: 20px;
 }
 
@@ -14,7 +14,7 @@ h1 {
 text-shadow: 5px 2px 3px gray;
 }
 
-#bold {
+#bold p{
     font-weight: bold;
 }
 
